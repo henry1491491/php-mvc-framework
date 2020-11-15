@@ -1,0 +1,15 @@
+{
+    "name": "wuhengli/mvc-framework-php",
+    "authors": [
+        {
+            "name": "dukeHenry",
+            "email": "kawasakininja3021@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {}
+}
